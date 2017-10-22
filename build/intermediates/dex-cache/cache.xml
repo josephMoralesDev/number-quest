@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Joe/AndroidStudioProjects/BrainTrainer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f3309dbec8241741c004c33d50766cb994e1f8ce">
+        <dex dex="/Users/Joe/AndroidStudioProjects/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b3eaba2cc51350fd51358fc2987d7a16807a4b49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Joe/AndroidStudioProjects/BrainTrainer/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/Joe/AndroidStudioProjects/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-26.0.0-alpha1_74df6a1adb27f05c7bf41e063dd30fb3104c2447/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Joe/AndroidStudioProjects/BrainTrainer/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/Joe/AndroidStudioProjects/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-26.0.0-alpha1_77617e11726f8494cb0267f2697b57b71eee9dbd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Joe/AndroidStudioProjects/BrainTrainer/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/Joe/AndroidStudioProjects/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-26.0.0-alpha1_b8bbc23c2c7c725a5dbb82fa941786c8023b9f28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Joe/AndroidStudioProjects/BrainTrainer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0a37ca5dbe3bdd8a44cae8ed4b41c550046ef9ee">
+        <dex dex="/Users/Joe/AndroidStudioProjects/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ba8a25c81afa19de01acb6e98ce99bc2fa99b8e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Joe/AndroidStudioProjects/BrainTrainer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/Joe/AndroidStudioProjects/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-26.0.0-alpha1_343060d5edaf8aef9347b173784f782818a53f8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Joe/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/Joe/AndroidStudioProjects/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_df201ce6a722d904771b34a8571a5fba467c355b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Joe/AndroidStudioProjects/BrainTrainer/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/Joe/AndroidStudioProjects/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-26.0.0-alpha1_362f0fe64ae611586173ae355f5cc047f7f24fea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Joe/AndroidStudioProjects/BrainTrainer/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/Joe/AndroidStudioProjects/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-26.0.0-alpha1_38fa7de6884c4ca27ad2533b99e90ef20e12678a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Joe/AndroidStudioProjects/BrainTrainer/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Joe/AndroidStudioProjects/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-26.0.0-alpha1_3791238440a0fe89ed38681d67dc98158334b5f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Joe/AndroidStudioProjects/BrainTrainer/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/Joe/AndroidStudioProjects/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-26.0.0-alpha1_06e2e01032f0ab11b067a1e52f402c48cbb0c9ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Joe/AndroidStudioProjects/BrainTrainer/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/Joe/AndroidStudioProjects/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-26.0.0-alpha1_d39c57af2cf04f96c7727698c5144d48a0a981a2/classes.dex" />
+    </item>
+
+</items>
